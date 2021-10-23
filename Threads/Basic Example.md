@@ -30,7 +30,7 @@
     }
 
 ### OUTPUT
-Output will change after each executiom
+Output will change after each execution
 
     ==Application Started==
     Java 1
