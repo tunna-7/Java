@@ -4,6 +4,8 @@
 ### that displays the details of the various location instances (nested class objects) for a given school name. If
 ### the user enters the school name as input the system should search and display all the location objects associated with the school.
 
+
+
     import java.util.*;
 
     class Department {
@@ -44,4 +46,4 @@
     }
     
 ## OUTPUT
-    ![image](https://user-images.githubusercontent.com/66274690/145678488-f6b150f0-66ad-444b-bd93-4ef1f80909f8.png)
+   ![image](https://user-images.githubusercontent.com/66274690/145678488-f6b150f0-66ad-444b-bd93-4ef1f80909f8.png)
