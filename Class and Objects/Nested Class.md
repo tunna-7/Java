@@ -1,8 +1,5 @@
 ## Q
-### A school is considered to exist in multiple locations. Each location is defined by attributes like locationId,
-### locationName, longitude, latitude. Location is maintained as nested class in department. Write a Java program 
-### that displays the details of the various location instances (nested class objects) for a given school name. If
-### the user enters the school name as input the system should search and display all the location objects associated with the school.
+A school is considered to exist in multiple locations. Each location is defined by attributes like locationId,locationName, longitude, latitude. Location is maintained as nested class in department. Write a Java program that displays the details of the various location instances (nested class objects) for a given school name. Ifthe user enters the school name as input the system should search and display all the location objects associated with the school.
 
 
 
